@@ -1,0 +1,1 @@
+export default function Cli(){return <h1>Clientes - Placeholder</h1>}

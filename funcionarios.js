@@ -1,0 +1,1 @@
+export default function Func(){return <h1>Funcionários - Placeholder</h1>}

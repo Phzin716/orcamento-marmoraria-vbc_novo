@@ -1,0 +1,1 @@
+export default function Rel(){return <h1>Relatórios - Placeholder</h1>}

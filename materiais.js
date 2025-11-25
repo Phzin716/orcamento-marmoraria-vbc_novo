@@ -1,0 +1,1 @@
+export default function Mat(){return <h1>Materiais - Placeholder</h1>}

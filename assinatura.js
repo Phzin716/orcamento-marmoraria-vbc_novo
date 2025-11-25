@@ -1,0 +1,1 @@
+import SignatureCanvas from 'react-signature-canvas'; export default function S(){return <SignatureCanvas penColor='black' canvasProps={{width:300,height:200}}/>}

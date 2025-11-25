@@ -1,0 +1,1 @@
+export default function Orc(){return <h1>Orçamentos - Placeholder</h1>}
